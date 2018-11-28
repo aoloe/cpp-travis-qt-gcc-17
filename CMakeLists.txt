@@ -4,16 +4,16 @@ PROJECT(sample)
 
 SET(CMAKE_CXX_STANDARD 17)
 
-# set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
-# set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOMOC ON)
 
-# find_package(Qt5Widgets)
+find_package(Qt5Widgets)
 
 ADD_EXECUTABLE(sample
     src/main.cpp
 )
 
-#target_link_libraries(sample
+target_link_libraries(sample
     #Qt5::Widgets
-#)
+)
