@@ -8,7 +8,6 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 set(CMAKE_AUTOMOC ON)
 
-find_package(Qt5Core)
 find_package(Qt5Widgets)
 
 ADD_EXECUTABLE(sample
