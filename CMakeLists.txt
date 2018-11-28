@@ -15,5 +15,5 @@ ADD_EXECUTABLE(sample
 )
 
 target_link_libraries(sample
-    #Qt5::Widgets
+    Qt5::Widgets
 )
