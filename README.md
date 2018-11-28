@@ -2,7 +2,7 @@
 
 test travis with qt and gcc 17
 
-[[travis build status](https://travis-ci.org/aoloe/cpp-travis-qt-gcc-17.svg?branch=master)](https://travis-ci.org/aoloe/cpp-travis-qt-gcc-17)
+[![travis build status](https://travis-ci.org/aoloe/cpp-travis-qt-gcc-17.svg?branch=master)](https://travis-ci.org/aoloe/cpp-travis-qt-gcc-17)
 
 See also:
 
