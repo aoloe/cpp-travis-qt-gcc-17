@@ -14,7 +14,7 @@ install:
   - sudo apt-get install -qq g++-6
   # Qt 5.11
   - sudo apt-get install qt511base qt511tools
-  - sudo apt-get mesa-common-dev
+  - sudo apt-get install mesa-common-dev
   # Environment
   - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
   - source /opt/qt511/bin/qt511-env.sh
