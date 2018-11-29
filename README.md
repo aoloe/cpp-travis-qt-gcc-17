@@ -21,6 +21,8 @@ If you want a newer version of Qt, you can use one of [beineri](https://launchpa
 
 and you will have to re-configure the Qt5 environment by running the `qt511-env.sh` script.
 
+On top of it, you will need `mesa-common-dev` a dependency that is somehow not pulled in by the Qt511 packages.
+
 Of course, you will have to replace `511` with the versrion you choosed to use.
 
 ## Using ninja
